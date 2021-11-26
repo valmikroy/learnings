@@ -2,8 +2,8 @@
 
 * [Welcome!](README.md)
 * [Finance](finance/README.md)
-  * [Financial Ratio](finance/example-page-under-quickstart.md)
-  * [Example page two](finance/example-page-two.md)
+  * [Financial Ratio](finance/financial-ratio.md)
+  * [Advance Ratio](finance/advance-ratio.md)
 
 ## Reference
 
