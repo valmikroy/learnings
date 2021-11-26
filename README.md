@@ -1,5 +1,5 @@
 ---
-description: Notes to myself on how to make money
+description: Notes to myself on how not to loose money
 ---
 
 # Learnings on money
