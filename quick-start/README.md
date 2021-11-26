@@ -1,16 +1,16 @@
-# Quick Start
+---
+description: Learnings on Finance
+---
 
-{% hint style="info" %}
-**Good to know:** A quick start guide can be good to help folks get up and running with your API in a few steps. Some people prefer diving in with the basics rather than meticulously reading every page of documentation!
-{% endhint %}
+# Finance
 
-## Get your API keys
+## Financial statement
 
 Your API requests are authenticated using API keys. Any request that doesn't include an API key will return an error.
 
 You can generate an API key from your Dashboard at any time.
 
-## Install the library
+## Balance sheet
 
 The best way to interact with our API is to use one of our official libraries:
 
@@ -34,7 +34,11 @@ pip install --upgrade myapi
 **Good to know:** Using tabs to separate out different languages is a great way to present technical examples or code documentation without cramming your docs with extra sections or pages per language.
 {% endhint %}
 
-## Make your first request
+## Cashflow statement
+
+
+
+## Income statement
 
 To make your first request, send an authenticated request to the pets endpoint. This will create a `pet`, which is nice.
 
@@ -48,11 +52,11 @@ The name of the pet
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="owner_id" required="false" type="string" %}
-The 
+The
 
 `id`
 
- of the user who owns the pet
+of the user who owns the pet
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="species" required="false" type="string" %}

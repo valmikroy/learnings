@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [Finance](quick-start/README.md)
+  * [Example page under quickstart](quick-start/example-page-under-quickstart.md)
+  * [Example page two](quick-start/example-page-two.md)
 
 ## Reference
 
