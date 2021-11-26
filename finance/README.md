@@ -74,6 +74,25 @@ Assets - Liabilities  = Owner's equity
   - Tangible business assets include real estate, factory equipment, computers, office furniture, and other physical capital assets. 
   - Intangible assets include intellectual property, copyrights, patents, trademarks, et. al.
 
+  CAPEX doesn't have seperate section in the financial statement and it need to be calculated. 
+
+  - Locate **depreciation and amortization** on the income statement
+
+  - Locate the **current period property, plant & equipment (PP&E)** on the balance sheet
+
+  - Locate the **prior period PP&E** on the same balance sheet
+
+  - Use the formula below to arrive at CapEx
+
+    ```
+    CapEx = PP&E (current period) – PP&E (prior period) 
+            + Depreciation (current period)
+    
+    
+    ```
+
+    
+
 - The IRS treats capital expenses differently than operating expenses. According to the IRS, operating expenses must be ordinary (common and accepted in the business trade) and necessary (helpful and appropriate in the business trade). In general, businesses are allowed to write off operating expenses for the year in which the expenses were incurred; alternatively, businesses must **capitalize** capital expenses/costs. (applicable for dpreciation) 
 
 - Non-Operating Expense - A non-operating expense is a cost that is unrelated to the business's core operations. The most common types of non-operating expenses are interest charges or other costs of borrowing, payments to settle lawsuits, restructuring costs and losses on the disposal of assets. Accountants sometimes remove non-operating expenses to examine the performance of the business, ignoring the effects of financing and other irrelevant issues. 
