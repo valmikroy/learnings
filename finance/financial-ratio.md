@@ -6,6 +6,39 @@ description: First level of ratios to analyze company's state
 
 This section contents standard ratios derived from financial statement and their significance.
 
+
+
+### EBITDA Margin
+
+- Net income was calculated after deducting series of deduction from revenue
+   - Revenue - Operating expenese = Operating income
+   - Operating income - non-Operating expenses = Income before taxes
+   - Income before taxes - taxes = Net Income
+- EBITDA = Earning before Interest, Taxes, Dividend and Amortization. This is calculated by adding back interest payment, taxes, dividend and amortization into net income. 
+
+This ratio is `EBITDA/Revenue`
+
+This shows companies ability to generate cashflow.
+
+
+
+### Net Profit Margin
+
+This is ratio of `Net income/Revenue`.
+
+This is left over amount after everything stripped out of the revenue.
+
+
+
+### Operating Margin
+
+Operating income is what left after subtracting operating expenses from the revneue. This removes effect of taxes and non-operating expenses while calculating ratio against the revenue. 
+
+`Operating income/Revenue`
+
+
+
+
 ### Return on Assets
 
 Return on assets (ROA) is an indicator of how well a company utilizes its assets in terms of profitability.

@@ -78,7 +78,7 @@ Assets - Liabilities  = Owner's equity
 
 - Non-Operating Expense - A non-operating expense is a cost that is unrelated to the business's core operations. The most common types of non-operating expenses are interest charges or other costs of borrowing, payments to settle lawsuits, restructuring costs and losses on the disposal of assets. Accountants sometimes remove non-operating expenses to examine the performance of the business, ignoring the effects of financing and other irrelevant issues. 
 
-- Operating income = Gross profit - Expenses 
+- Operating income = Revenue - Operating Expenses 
 
 - Income before taxes = Operating income - non-operating expenses
 
