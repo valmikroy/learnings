@@ -28,6 +28,18 @@ Assets - Liabilities  = Owner's equity
 
 
 
+#### Net Debt
+
+This is something to look for to know how much company has borrowed 
+
+```
+Net Debt = short term debt + Long term debt - Cash and liquid instruments
+```
+
+Negative net debt means company will have left over after paying off all the debt. 
+
+
+
 ## Income statement
 
 - Revenue - Amount of money company made during reporting period.

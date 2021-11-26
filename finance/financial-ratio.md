@@ -81,7 +81,9 @@ ROIC is always calculated as a percentage and is usually expressed as an annuali
 Current ratio = Current assets / Current liabilities
 ```
 
-The current ratio helps investors understand more about a company’s ability to cover its short-term debt with its current assets and make apples-to-apples comparisons with its competitors and peers. Current ratio more than 1 suggests that company's short team liabilities can be easily covered.
+The current ratio helps investors understand more about a company’s ability to cover its short-term debt with its current assets and make apples-to-apples comparisons with its competitors and peers. 
+
+Current ratio more than 1 suggests that company's short team liabilities can be easily covered.
 
 ### Quick ratio
 
@@ -95,3 +97,34 @@ or
 Quick ratio = (Current assets - Inventory - Prepaid expenses ) / Current liabilities 
  ```
 
+
+
+### Debt to equity ratio
+
+From balance sheet you can gather a formula 
+
+`Assets =  Liabilities + Equity`
+
+Debt is a part of `Liabilities`.
+
+`Equity = Assets - Liabilities`
+
+So we can calculate this ration 
+
+```
+D/E = Debt / ( Assets - Liabilities )
+```
+
+If you have far less assets compared to your liabilities then you can get this ratio into negative.
+
+
+
+Then you can look at Quick or Current ratio to see if short term assets can cover short term liabilities. 
+
+ 
+
+### Net Debt / EBITDA
+
+This ratio will suggest how much more money company will need to pay of its debt compare to its EBITDA.
+
+ 
