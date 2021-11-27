@@ -129,6 +129,6 @@ Then you can look at Quick or Current ratio to see if short term assets can cove
 
 ### Net Debt / EBITDA
 
-This ratio will suggest how much more money company will need to pay of its debt compare to its EBITDA.
+This ratio will suggest how much more money company will need to pay of its [debt](https://valmikroy.gitbook.io/finance/finance#net-debt) compare to its EBITDA.
 
  
