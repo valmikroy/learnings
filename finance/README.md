@@ -119,6 +119,34 @@ Negative net debt means company will have left over after paying off all the deb
 
 
 
+#### Working capital
+
+ It is a difference between a company’s 
+
+current assets
+
+- cash 
+- accounts receivable/customers’ unpaid bills
+- inventories of raw materials and finished goods 
+
+and its current liabilities, 
+
+- accounts payable 
+- short term borrowing 
+- accrued liabilities 
+
+It represents the difference between a company’s current assets and current liabilities. (Current ratio represents the ratio between them)
+
+Positive NWC indicates that a company can fund its current operations and invest in future activities and growth.
+
+High NWC isn’t always a good thing. It might indicate that the business has too much inventory or is not investing its excess cash.
+
+```
+Current Assets - Current Liabilities = Working capital
+```
+
+
+
 
 
 ## Cashflow statement&#x20;

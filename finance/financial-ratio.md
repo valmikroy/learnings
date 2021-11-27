@@ -85,6 +85,10 @@ The current ratio helps investors understand more about a company’s ability to
 
 Current ratio more than 1 suggests that company's short team liabilities can be easily covered.
 
+
+
+Change is Current ratio is good indicator of change in working capital.
+
 ### Quick ratio
 
 This is realistic version of current ratio which takes realisitc liquidable assets instead of just current assets to measure companies ability to pay off short term debts.
