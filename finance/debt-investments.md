@@ -5,7 +5,6 @@
 
 ### Time value of money 
 
-
 **Simple interest rate**
 $$
 FV = PV * \left [ 1 + i\right]^p
@@ -21,7 +20,7 @@ $$
 
 **Compound interest rate**
 $$
-FV = PV * \left [ 1 + \frac{i}{n}\right]^n
+FV = PV * \left [ 1 + \frac{i}{n}\right]^r
 \\
 \begin{align*} \\
 FV = Final\ Value \\
@@ -55,7 +54,6 @@ That is the reason long term bond price goes down if short term interest rate go
  
 
  
-
 
 
 
