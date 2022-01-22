@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Learning notes](README.md)
-  * [Life](readme/life.md)
+* [Life](README.md)
+  * [Beer Basics](readme/beer-basics.md)
 * [Finance](finance/README.md)
   * [Debt investments](finance/debt-investments.md)
   * [Financial Ratio](finance/financial-ratio.md)

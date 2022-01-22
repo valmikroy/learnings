@@ -1,6 +1,6 @@
 ---
-description: Notes to myself on how not to loose money
+description: Notes on random things in life
 ---
 
-# Learnings on money
+# Life
 
