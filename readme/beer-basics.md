@@ -81,3 +81,10 @@ While these intensely **dark beers** are technically ales, they are often treate
 
   
 
+
+
+
+
+## Reference
+
+- [Link](https://www.thebeerstore.ca/articles/beer-types-and-styles/)
