@@ -9,3 +9,7 @@
 * [Math](math/README.md)
   * [Poisson Process](math/poisson-process.md)
   * [Euler's number](math/eulers-number.md)
+
+## Tech
+
+* [TCP delay optimization](tech/tcp-delay-optimization.md)
