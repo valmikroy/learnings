@@ -29,3 +29,9 @@ More on RTO value of 200ms can be found [here](https://blog.titanwolf.in/a?ID=00
 
 This is the mechanism which delays sending the packet until its full. Flushing the packet on the message boundries should be ideal way of dealing with it. `TCP_CORK` is the flag on the socket governs this behaviour.
 
+TCP Corking means don't send any data (partial frames) smaller than the MSS until the application says so or until 200ms later.
+
+
+
+TCP_NODELAY sends doesn't accumulate the logical packets before sending then as network packets, Nagle's algorithm does according the algorithm, and TCP_CORK does according to the application setting it. ([credit](https://stackoverflow.com/questions/22124098/is-there-any-significant-difference-between-tcp-cork-and-tcp-nodelay-in-this-use))
+
