@@ -12,4 +12,4 @@
 
 ## Tech
 
-* [TCP](tech/tcp.md)
+* [Network](tech/network.md)
