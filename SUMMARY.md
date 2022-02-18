@@ -13,3 +13,4 @@
 ## Tech
 
 * [Network](tech/network.md)
+* [Performance](tech/performance.md)
