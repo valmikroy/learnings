@@ -12,4 +12,4 @@
 
 ## Tech
 
-* [TCP delay optimization](tech/tcp-delay-optimization.md)
+* [TCP](tech/tcp.md)
